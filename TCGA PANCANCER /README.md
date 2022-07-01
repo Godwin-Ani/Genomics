@@ -1,7 +1,7 @@
 # TCGA PANCANCER DATASET 
 
 
-This is a RNA-Seq (HiSeq) PANCAN data set gotten from UCI machine learning repository. It is a random extraction of gene expressions of patients having different types of tumor. Analysis performed on the dataset include:
+This is a subset of the RNA-Seq (HiSeq) PANCAN data set gotten from UCI machine learning repository. It is a random extraction of gene expressions of patients having different types of tumor. Analysis performed on the dataset include:
 
 ***
 1. **Normalization** using `log(x +1)` and `(sample-mean)/standard deviation`.
