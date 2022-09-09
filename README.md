@@ -1,2 +1,2 @@
 # Genomics
-Analysis on the genome
+Genomic analysis
